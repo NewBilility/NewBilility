@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+我是程序员
+
+## 这是一个二级标题
+
+- 🌱 I’m currently learning AI
+- 💬 Ask me about IT相关知识
+
 <!--
 **NewBilility/NewBilility** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
